@@ -1,0 +1,84 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.btn a:hover{
+    color:white ;
+}
+body{
+  
+    /*background-image: url("../images/IMG_boat_race_1_1_FA8TNLCJ.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;*/
+background-color: rgb(143, 146, 143) !important;
+background-size: cover;
+
+}
+#list{
+    background-color: blueviolet;
+}
+
+
+.row h1{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: azure;
+}
+
+.carousel-inner{
+   
+    
+}
+
+
+.carousel-inner.carousel-item{
+    height:550em;
+    background-size: cover;
+}
+
+
+.mb-3{
+    margin-top: 100px;
+}
+
+
+#sign{
+    margin-top: 80px;
+}
+
+#title h1{
+    text-align:center;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.card a{
+    color:black;
+    text-decoration: none;
+}
+
+#description{
+    background-color:rgb(70, 110, 73);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#spots{
+    color: white;
+}
+
+
+#error p{
+    color:rgb(214, 151, 15);
+    font-weight: bolder;
+    font-size:x-large;
+    
+}
+#button{
+margin-left: 45% ;
+}
+
+#table_head{
+
+ text-align: center;   
+}
